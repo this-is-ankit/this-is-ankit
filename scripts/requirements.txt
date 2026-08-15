@@ -1,0 +1,10 @@
+# Needed by the daily GitHub Actions workflow (heatmap only):
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Needed only locally, when you (re)generate the ASCII portrait from
+# a new photo. Not installed by the daily automation.
+pillow
+numpy
+opencv-python
+rembg

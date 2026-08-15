@@ -1,0 +1,4 @@
+# Used by the daily GitHub Actions workflow — only the heatmap
+# scripts run in CI, and they only need these two.
+requests==2.32.3
+beautifulsoup4==4.12.3
