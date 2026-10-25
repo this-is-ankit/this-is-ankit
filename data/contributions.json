@@ -2,41 +2,6 @@
   "username": "this-is-ankit",
   "days": [
     {
-      "date": "2025-10-19",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-20",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-22",
-      "level": 2,
-      "count": 5
-    },
-    {
-      "date": "2025-10-23",
-      "level": 1,
-      "count": 3
-    },
-    {
-      "date": "2025-10-24",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-25",
-      "level": 0,
-      "count": 0
-    },
-    {
       "date": "2025-10-26",
       "level": 0,
       "count": 0
@@ -1853,21 +1818,26 @@
     },
     {
       "date": "2026-10-24",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total_contributions": 761,
+    "total_contributions": 754,
     "current_streak": 0,
-    "longest_streak": 87,
+    "longest_streak": 88,
     "best_day": {
       "date": "2026-08-06",
       "level": 4,
       "count": 33
     },
     "monthly_totals": {
-      "2025-10": 35,
+      "2025-10": 27,
       "2025-11": 2,
       "2025-12": 60,
       "2026-01": 0,
@@ -1879,8 +1849,8 @@
       "2026-07": 89,
       "2026-08": 343,
       "2026-09": 138,
-      "2026-10": 23
+      "2026-10": 24
     },
-    "generated_at": "2026-10-24"
+    "generated_at": "2026-10-25"
   }
 }
